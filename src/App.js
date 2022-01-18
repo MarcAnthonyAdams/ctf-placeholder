@@ -1,23 +1,13 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="display">
+        <span className="displayLogo">
+            <img className="displayLogoImg" src="/ConnectTF-logo-1.png" alt="" />
+        </span>
+        <span className="displayDescription">A place where those who are on the <b style={{color: "#e639af"}}>twin flame</b> journey can <b style={{color: "#4a76fd"}}>connect</b>!</span>
+        <span className="comingSoon"><b style={{color: "#4a76fd"}}>Coming</b> <b style={{color: "#e639af"}}>Soon!</b></span>
     </div>
   );
 }

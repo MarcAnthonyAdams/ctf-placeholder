@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    background: no-repeat center center fixed;;
+    background-image: linear-gradient(to bottom right, #d8e1fe, #d8e1fe, #d8e1fe, white, white, #fde1ef, #fde1ef);
+}
