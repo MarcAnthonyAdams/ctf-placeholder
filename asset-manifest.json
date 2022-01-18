@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ctf-placeholder/static/css/main.b4d18072.css",
+    "main.js": "/ctf-placeholder/static/js/main.055ff977.js",
+    "index.html": "/ctf-placeholder/index.html",
+    "main.b4d18072.css.map": "/ctf-placeholder/static/css/main.b4d18072.css.map",
+    "main.055ff977.js.map": "/ctf-placeholder/static/js/main.055ff977.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4d18072.css",
+    "static/js/main.055ff977.js"
+  ]
+}
