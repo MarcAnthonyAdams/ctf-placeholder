@@ -26,6 +26,10 @@
 
 @media all and (max-width: 394px) {
 
+    .display {
+        margin-top: -100px;
+    }
+
 
     .displayLogoImg {
         width: 300px;
