@@ -22,6 +22,7 @@ body {
         margin-bottom: 50px;
         margin-right: 50px;
         background-repeat: no-repeat;
+        overflow: hidden;
     } 
 
 }
@@ -36,6 +37,7 @@ body {
         padding-right: 50px;
         background-repeat: no-repeat;
         background-size: cover;
+        overflow: hidden;
     } 
 
 }
