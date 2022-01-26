@@ -21,3 +21,41 @@
     font-size: 48px;
     margin-top: 30px;
 }
+
+/* >>>>>>>>>>>>>>>>>>> Extra Small Screens <<<<<<<<<<<<<<<<<<< */
+
+@media all and (max-width: 394px) {
+
+
+    .displayLogoImg {
+        width: 300px;
+    }
+
+    .displayDescription {
+        font-size: 14px;
+        margin: 0 40px;
+    }
+
+    .comingSoon {
+        font-size: 36px;
+    }
+}
+
+/* >>>>>>>>>>>>>>>>>>> Small Screens <<<<<<<<<<<<<<<<<<< */
+
+@media all and (min-width: 395px) and (max-width: 594px) {
+
+    .displayLogoImg {
+        width: 350px;
+    }
+
+    .displayDescription {
+        font-size: 14px;
+        margin: 0 60px;
+    }
+
+    .comingSoon {
+        font-size: 36px;
+    }
+
+}
